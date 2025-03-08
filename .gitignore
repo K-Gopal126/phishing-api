@@ -1,0 +1,17 @@
+# Ignore Virtual Environment
+env/
+
+# Ignore Python Cache Files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Ignore System Files (Windows & Mac)
+.DS_Store
+Thumbs.db
+
+# Ignore Chrome Extension Folder
+phishing-extension/
