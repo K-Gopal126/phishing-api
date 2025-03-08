@@ -1,17 +1,9 @@
-# Ignore Virtual Environment
+# Virtual Environment
 env/
+venv/
 
-# Ignore Python Cache Files
+# Python Cache Files
 __pycache__/
-*.pyc
-*.pyo
 
-# Ignore Jupyter Notebook Checkpoints
-.ipynb_checkpoints/
-
-# Ignore System Files (Windows & Mac)
-.DS_Store
-Thumbs.db
-
-# Ignore Chrome Extension Folder
+# Chrome Extension Folder (अगर अलग रखना चाहते हो)
 phishing-extension/
